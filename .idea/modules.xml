@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FromImdbTable.iml" filepath="$PROJECT_DIR$/.idea/modules/FromImdbTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FromImdbTable_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FromImdbTable_main.iml" group="FromImdbTable" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FromImdbTable_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FromImdbTable_test.iml" group="FromImdbTable" />
+    </modules>
+  </component>
+</project>
